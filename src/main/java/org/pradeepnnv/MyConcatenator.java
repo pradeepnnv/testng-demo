@@ -8,7 +8,7 @@ public class MyConcatenator {
 
         for (int i=0; i<strings.length; i++){
             if (i > 0){
-                builder.append(",");
+                builder.append("#");
             }
             builder.append(strings[i]);
         }
