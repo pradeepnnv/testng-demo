@@ -7,7 +7,7 @@ public class UUIDGeneratorTest {
     @Test(groups = {"positive"})
     public void positiveTestCase() {
         String uuid = UUIDGenerator.uuid();
-        Assert.assertEquals( uuid.length(),16);
+        Assert.assertEquals( uuid.length(),20);
     }
 
 }
