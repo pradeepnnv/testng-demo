@@ -2,7 +2,7 @@
 <suite name="Test1">
     <test name="Creepy">
         <classes>
-            <class name="org.pradeepnnv.MyConcatenatorTest"/>
+            <class name="org.pradeepnnv.ConcatenateTest"/>
         </classes>
     </test>
 </suite>
